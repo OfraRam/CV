@@ -1,7 +1,6 @@
 {
   "personal": {
-    document.getElementById("about-text").textContent =
-  "I am a frontend developer.";
+    "name": "Ofra Ram"
     "title": "HR, Culture & People Operations Manager" ram ram ram
   }
 }
